@@ -29,5 +29,5 @@ de qualidade, deixei faltar muitas coisas que gostaria de entregar, portanto, pe
 - Instancie a classe com : `c = ClimaTempo()`
 
 - Chame o metodo de parser com: `c.parser('<NOME DA CIDADE QUE DESEJA>')`
-
+(Ex. `c.parser('São Carlos`)
 - Aguarde até 5 min. para receber o resultado.(SALENIUM È MUUUITO LENTO!)
