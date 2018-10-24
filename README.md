@@ -8,7 +8,7 @@ de qualidade, deixei faltar muitas coisas que gostaria de entregar, portanto, pe
 
 
 
-## Instalação de requisitos (NECESSÁRIO:Python 3.6.0+, pip(Atualizado) e GeckoDriver(Firefox-Atualizado)))
+## Instalação de requisitos (NECESSÁRIO:Python 3.6.0+, pip(Atualizado) e GeckoDriver(Firefox-Atualizado)
 
 - Crie um ambiente virtual de sua preferência (Recomendado/Opcional)
 
