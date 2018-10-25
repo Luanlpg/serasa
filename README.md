@@ -10,6 +10,8 @@ de qualidade, deixei faltar muitas coisas que gostaria de entregar, portanto, pe
 
 ## Instalação de requisitos (NECESSÁRIO:Python 3.6.0+, pip(Atualizado) e GeckoDriver(Firefox-Atualizado)
 
+- Instalação básica do geckodriver: https://take.net/blog/take-test/instalacao-geckodriver-driver-para-abrir-o-firefox-no-selenium/
+
 - Crie um ambiente virtual de sua preferência (Recomendado/Opcional)
 
 - Faça um clone do projeto: `git clone github.com/Luanlpg/serasa.git`
