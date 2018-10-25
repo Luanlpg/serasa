@@ -24,7 +24,7 @@ de qualidade, deixei faltar muitas coisas que gostaria de entregar, portanto, pe
 
 - Rode o python: `python`
 
-- importe a classe Climatempo com: `from clima import ClimaTempo`
+- importe a classe Climatempo com: `from core.clima import ClimaTempo`
 
 - Instancie a classe com : `c = ClimaTempo()`
 
