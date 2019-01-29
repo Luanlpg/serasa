@@ -1,10 +1,6 @@
-# Serasa-Climatempo(INCOMPLETO)
+# Serasa-Climatempo
 
 Serasa-Climatempo é uma API que recebe o nome de um estado e retorna informaçoes de clima para cada mês.
-
-
-Quero pedir desculpas antecipadamente, pois não consegui encontrar tempo o suficiente para entregar um código
-de qualidade, deixei faltar muitas coisas que gostaria de entregar, portanto, peço desculpas.
 
 
 
